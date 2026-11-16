@@ -1,0 +1,2927 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Z Builder",
+    "page_builder": "elementor",
+    "kit_version": "1.0.9",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tab section",
+            "screenshot": "screenshots\/tab-section.jpg",
+            "source": "templates\/tab-section.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/tab-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project templat tab",
+            "screenshot": "screenshots\/project-templat-tab.jpg",
+            "source": "templates\/project-templat-tab.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/project-templat-tab\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Building Tabs",
+            "screenshot": "screenshots\/building-tabs.jpg",
+            "source": "templates\/building-tabs.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/building-tabs\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Factory Tab",
+            "screenshot": "screenshots\/factory-tab.jpg",
+            "source": "templates\/factory-tab.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/factory-tab\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Other Tabs",
+            "screenshot": "screenshots\/other-tabs.jpg",
+            "source": "templates\/other-tabs.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/other-tabs\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Apartment Tab",
+            "screenshot": "screenshots\/apartment-tab.jpg",
+            "source": "templates\/apartment-tab.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/apartment-tab\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Office tab",
+            "screenshot": "screenshots\/office-tab.jpg",
+            "source": "templates\/office-tab.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/office-tab\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 02",
+            "screenshot": "screenshots\/services-02.jpg",
+            "source": "templates\/services-02.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/services-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Single",
+            "screenshot": "screenshots\/team-single.jpg",
+            "source": "templates\/team-single.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/team-single\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter form",
+            "screenshot": "screenshots\/newsletter-form.jpg",
+            "source": "templates\/newsletter-form.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/newsletter-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Details",
+            "screenshot": "screenshots\/services-details.jpg",
+            "source": "templates\/services-details.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/services-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 01",
+            "screenshot": "screenshots\/services-01.jpg",
+            "source": "templates\/services-01.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/services-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project page",
+            "screenshot": "screenshots\/project-page.jpg",
+            "source": "templates\/project-page.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/project-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Details",
+            "screenshot": "screenshots\/project-details.jpg",
+            "source": "templates\/project-details.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/project-details\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing page",
+            "screenshot": "screenshots\/pricing-page.jpg",
+            "source": "templates\/pricing-page.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/pricing-page\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/our-team\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 03",
+            "screenshot": "screenshots\/home-03.jpg",
+            "source": "templates\/home-03.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/home-03\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ's",
+            "screenshot": "screenshots\/faq-s.jpg",
+            "source": "templates\/faq-s.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/faqs\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact page",
+            "screenshot": "screenshots\/contact-page.jpg",
+            "source": "templates\/contact-page.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/coming-soon\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Page",
+            "screenshot": "screenshots\/blog-page.jpg",
+            "source": "templates\/blog-page.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/blog-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 02",
+            "screenshot": "screenshots\/about-02.jpg",
+            "source": "templates\/about-02.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/about-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 01",
+            "screenshot": "screenshots\/about-01.jpg",
+            "source": "templates\/about-01.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Get in touch form",
+            "screenshot": "screenshots\/get-in-touch-form.jpg",
+            "source": "templates\/get-in-touch-form.json",
+            "preview_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/template-kit\/get-in-touch-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.19.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.5",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.3",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "tab-img-1-1.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/tab-img-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-section.json",
+                    "name": "Tab section"
+                },
+                {
+                    "source": "templates\/project-templat-tab.json",
+                    "name": "Project templat tab"
+                },
+                {
+                    "source": "templates\/factory-tab.json",
+                    "name": "Factory Tab"
+                }
+            ],
+            "filesize": 58936,
+            "dimensions": [
+                445,
+                589
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/builder-dressed-in-orange-work-vest-and-helmet-use-QUE45RM\/preview"
+        },
+        {
+            "filename": "tab-img-2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/tab-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-section.json",
+                    "name": "Tab section"
+                },
+                {
+                    "source": "templates\/project-templat-tab.json",
+                    "name": "Project templat tab"
+                }
+            ],
+            "filesize": 58329,
+            "dimensions": [
+                445,
+                589
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/crane-and-building-construction-site-on-background-4NGF9LK\/preview P9Z23PE\/preview\u201d"
+        },
+        {
+            "filename": "MicrosoftTeams-image.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/MicrosoftTeams-image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-section.json",
+                    "name": "Tab section"
+                },
+                {
+                    "source": "templates\/project-templat-tab.json",
+                    "name": "Project templat tab"
+                },
+                {
+                    "source": "templates\/other-tabs.json",
+                    "name": "Other Tabs"
+                }
+            ],
+            "filesize": 182070,
+            "dimensions": [
+                375,
+                589
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/crane-and-building-construction-site-against-blue-P9Z23PE\/preview"
+        },
+        {
+            "filename": "services-p-image4.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/services-p-image4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-templat-tab.json",
+                    "name": "Project templat tab"
+                },
+                {
+                    "source": "templates\/factory-tab.json",
+                    "name": "Factory Tab"
+                },
+                {
+                    "source": "templates\/other-tabs.json",
+                    "name": "Other Tabs"
+                },
+                {
+                    "source": "templates\/apartment-tab.json",
+                    "name": "Apartment Tab"
+                }
+            ],
+            "filesize": 79463,
+            "dimensions": [
+                540,
+                589
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/office-building-V8PMTKH"
+        },
+        {
+            "filename": "services-p-image5.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/services-p-image5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-templat-tab.json",
+                    "name": "Project templat tab"
+                },
+                {
+                    "source": "templates\/building-tabs.json",
+                    "name": "Building Tabs"
+                },
+                {
+                    "source": "templates\/office-tab.json",
+                    "name": "Office tab"
+                }
+            ],
+            "filesize": 100479,
+            "dimensions": [
+                540,
+                589
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/building-skyscapers-in-london-PZR7CVG"
+        },
+        {
+            "filename": "services-p-image6.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/services-p-image6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-templat-tab.json",
+                    "name": "Project templat tab"
+                },
+                {
+                    "source": "templates\/building-tabs.json",
+                    "name": "Building Tabs"
+                },
+                {
+                    "source": "templates\/office-tab.json",
+                    "name": "Office tab"
+                }
+            ],
+            "filesize": 83897,
+            "dimensions": [
+                540,
+                589
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/at-construction-site-TWS6LGH"
+        },
+        {
+            "filename": "test-4.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/test-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/apartment-tab.json",
+                    "name": "Apartment Tab"
+                }
+            ],
+            "filesize": 162513,
+            "dimensions": [
+                540,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/building-skyscapers-in-london-PZR7CVG"
+        },
+        {
+            "filename": "top-banner-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/top-banner-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project page"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/pricing-page.json",
+                    "name": "Pricing page"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                },
+                {
+                    "source": "templates\/blog-page.json",
+                    "name": "Blog Page"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 197958,
+            "dimensions": [
+                1917,
+                1092
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/30777b08-107c-48c2-9b83-112898448c23"
+        },
+        {
+            "filename": "home-02-overly.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/home-02-overly.png",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 4379,
+            "dimensions": [
+                95,
+                315
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Zbuilder-services-Img-3.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Zbuilder-services-Img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 53015,
+            "dimensions": [
+                350,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/factory-worker-engineer-working-in-factory-using-t-AB4D54U"
+        },
+        {
+            "filename": "Zbuilder-services-Img-2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Zbuilder-services-Img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 37940,
+            "dimensions": [
+                350,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/oil-rig-GSUCQ9B"
+        },
+        {
+            "filename": "Zbuilder-services-Img-1.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Zbuilder-services-Img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 61571,
+            "dimensions": [
+                350,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/building-construction-site-CC8CVSS"
+        },
+        {
+            "filename": "services-img-1.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/services-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 62465,
+            "dimensions": [
+                350,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/building-skyscapers-in-london-PZR7CVG"
+        },
+        {
+            "filename": "services-img-3.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/services-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 61152,
+            "dimensions": [
+                350,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/at-construction-site-TWS6LGH"
+        },
+        {
+            "filename": "services-img-2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/services-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 62253,
+            "dimensions": [
+                350,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/office-building-V8PMTKH"
+        },
+        {
+            "filename": "Z-builder-overly.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Z-builder-overly.png",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/pricing-page.json",
+                    "name": "Pricing page"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 4220,
+            "dimensions": [
+                96,
+                316
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services-image.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/services-image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/pricing-page.json",
+                    "name": "Pricing page"
+                }
+            ],
+            "filesize": 271417,
+            "dimensions": [
+                1920,
+                1357
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-construction-workers-discussing-project-6HPMVMU\/preview"
+        },
+        {
+            "filename": "top-banner-overly2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/top-banner-overly2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project page"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/pricing-page.json",
+                    "name": "Pricing page"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                },
+                {
+                    "source": "templates\/blog-page.json",
+                    "name": "Blog Page"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 7251,
+            "dimensions": [
+                1917,
+                542
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "tesimonual-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/tesimonual-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project page"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/pricing-page.json",
+                    "name": "Pricing page"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                },
+                {
+                    "source": "templates\/blog-page.json",
+                    "name": "Blog Page"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 8863,
+            "dimensions": [
+                156,
+                146
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-young-man-outside-promoting-his-local-bus-VGZMLB9"
+        },
+        {
+            "filename": "logo-image1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/logo-image1.png",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project page"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/pricing-page.json",
+                    "name": "Pricing page"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                },
+                {
+                    "source": "templates\/blog-page.json",
+                    "name": "Blog Page"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 3262,
+            "dimensions": [
+                152,
+                73
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "patner-4.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/patner-4.png",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project page"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/pricing-page.json",
+                    "name": "Pricing page"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                },
+                {
+                    "source": "templates\/blog-page.json",
+                    "name": "Blog Page"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 2470,
+            "dimensions": [
+                91,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "patner-3.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/patner-3.png",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project page"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/pricing-page.json",
+                    "name": "Pricing page"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                },
+                {
+                    "source": "templates\/blog-page.json",
+                    "name": "Blog Page"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 5330,
+            "dimensions": [
+                165,
+                55
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "patner-2.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/patner-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project page"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/pricing-page.json",
+                    "name": "Pricing page"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                },
+                {
+                    "source": "templates\/blog-page.json",
+                    "name": "Blog Page"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 4514,
+            "dimensions": [
+                144,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "home-01-bg.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/home-01-bg-800x435.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 25761,
+            "dimensions": [
+                1920,
+                1045
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-site-C5FMYBF\/preview"
+        },
+        {
+            "filename": "footer-logo.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/footer-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 3687,
+            "dimensions": [
+                199,
+                56
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "footer-overly.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/footer-overly.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 289442,
+            "dimensions": [
+                "655",
+                "1050"
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/3bd14ef4-5cc5-4b79-a702-945486977e6c"
+        },
+        {
+            "filename": "logo-header.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/logo-header.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1775,
+            "dimensions": [
+                198,
+                56
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3814,
+            "dimensions": [
+                198,
+                56
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mobile-img.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/mobile-img.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 213,
+            "dimensions": [
+                18,
+                27
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "testimonuial.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/testimonuial.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 9557,
+            "dimensions": [
+                133,
+                133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-successful-young-businessman-YJVR3KZ\/preview"
+        },
+        {
+            "filename": "team-member-2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/team-member-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 26068,
+            "dimensions": [
+                350,
+                463
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-female-builder-wearing-hard-ha-MD47W97"
+        },
+        {
+            "filename": "counter-icon-4..png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/counter-icon-4..png",
+            "templates": [
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 1586,
+            "dimensions": [
+                67,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "counter-icon-3..png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/counter-icon-3..png",
+            "templates": [
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 1045,
+            "dimensions": [
+                69,
+                69
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "counter-icon-2..png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/counter-icon-2..png",
+            "templates": [
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 1004,
+            "dimensions": [
+                69,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "counter-icon-1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/counter-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 1537,
+            "dimensions": [
+                65,
+                65
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "powered-img.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/powered-img.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 381167,
+            "dimensions": [
+                1920,
+                1188
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.freepik.com\/free-ai-image\/sunset-with-purple-sky-green-light_39915643.htm#query=sunset-with-purple-sky-green-light&position=5&from_view=search&track=sph"
+        },
+        {
+            "filename": "services-details.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/services-details.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                }
+            ],
+            "filesize": 125059,
+            "dimensions": [
+                1110,
+                506
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/4c5d0a99-1367-4ec0-9298-7fca674e2b2b"
+        },
+        {
+            "filename": "working-img.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/working-img.png",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 24281,
+            "dimensions": [
+                213,
+                213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": " https:\/\/www.twenty20.com\/photos\/7f4652d3-ecf3-4d98-96ab-cd56406b60b1"
+        },
+        {
+            "filename": "working-img2.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/working-img2.png",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 25390,
+            "dimensions": [
+                213,
+                213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": " https:\/\/www.twenty20.com\/photos\/e19964a2-db93-482f-82aa-a7266560cb95"
+        },
+        {
+            "filename": "working-img3.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/working-img3.png",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 25425,
+            "dimensions": [
+                213,
+                213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/b1b36a18-128b-4400-a0a3-ae85d3527af5"
+        },
+        {
+            "filename": "working-img4.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/working-img4.png",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 29328,
+            "dimensions": [
+                213,
+                213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/3bd14ef4-5cc5-4b79-a702-945486977e6c"
+        },
+        {
+            "filename": "services-image-1.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/services-image-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 39421,
+            "dimensions": [
+                596,
+                506
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/4c5d0a99-1367-4ec0-9298-7fca674e2b2b"
+        },
+        {
+            "filename": "services-icon-1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/services-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 1510,
+            "dimensions": [
+                124,
+                124
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "services-icon-2.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/services-icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 2418,
+            "dimensions": [
+                124,
+                124
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "services-image-2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/services-image-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 51258,
+            "dimensions": [
+                596,
+                506
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/3bd14ef4-5cc5-4b79-a702-945486977e6c"
+        },
+        {
+            "filename": "services-image-3.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/services-image-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 57140,
+            "dimensions": [
+                596,
+                506
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/building-construction-site-CC8CVSS"
+        },
+        {
+            "filename": "services-icon-3.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/services-icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 1546,
+            "dimensions": [
+                124,
+                124
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "project-details.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/project-details.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 213113,
+            "dimensions": [
+                1110,
+                681
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/builder-dressed-in-orange-work-vest-and-helmet-use-QUE45RM\/preview"
+        },
+        {
+            "filename": "image-1.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/image-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 105418,
+            "dimensions": [
+                1110,
+                681
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/office-building-V8PMTKH"
+        },
+        {
+            "filename": "image-3.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/image-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 27476,
+            "dimensions": [
+                350,
+                445
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/crane-and-building-construction-site-on-background-4NGF9LK\/preview P9Z23PE\/preview\u201d"
+        },
+        {
+            "filename": "image-4.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/image-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 23257,
+            "dimensions": [
+                350,
+                445
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/crane-and-building-construction-site-against-blue-P9Z23PE\/preview"
+        },
+        {
+            "filename": "image-5.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/image-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 30898,
+            "dimensions": [
+                350,
+                445
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/building-skyscapers-in-london-PZR7CVG"
+        },
+        {
+            "filename": "home-01-image.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/home-01-image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 15361,
+            "dimensions": [
+                349,
+                463
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/front-view-worker-construction-wearing-protection-gear_11503632.htm#page=1&query=Construction%20Man&position=8 Twenty20"
+        },
+        {
+            "filename": "team-member-3.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/team-member-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 23539,
+            "dimensions": [
+                350,
+                463
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-male-builder-wearing-hard-hat--WTGMDX5"
+        },
+        {
+            "filename": "team-member-4.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/team-member-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 22928,
+            "dimensions": [
+                350,
+                463
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-female-building-surveyor-wearing-hard--JDGPNUQ"
+        },
+        {
+            "filename": "team-member-5.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/team-member-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 25575,
+            "dimensions": [
+                350,
+                463
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/middle-eastern-businessman-at-construction-site-F8AGRTC"
+        },
+        {
+            "filename": "team-member-6.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/team-member-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 23927,
+            "dimensions": [
+                349,
+                463
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-woman-engineer-standing-against-concrete-wall-on-QHBF6BR"
+        },
+        {
+            "filename": "about-imag3.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/about-imag3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 35393,
+            "dimensions": [
+                555,
+                649
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-engineers-discussion-with-architects-WRSLZBQ"
+        },
+        {
+            "filename": "home-03-bg-image.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/home-03-bg-image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 26351,
+            "dimensions": [
+                1920,
+                1037
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/view-downtown-raleigh-north-carolina-from-street-level-hdr-image_1242704.htm#page=2&query=Building&position=17"
+        },
+        {
+            "filename": "banner-03-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/banner-03-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 599,
+            "dimensions": [
+                135,
+                313
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-03-banner-img.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/home-03-banner-img.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 271058,
+            "dimensions": [
+                634,
+                949
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/3bd14ef4-5cc5-4b79-a702-945486977e6c"
+        },
+        {
+            "filename": "home-03-banner-imag.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/home-03-banner-imag.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 86257,
+            "dimensions": [
+                755,
+                767
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/architect-and-structural-engineer-dressed-in-orang-DJYCS8N"
+        },
+        {
+            "filename": "home-03-banner-bg.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/home-03-banner-bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 720,
+            "dimensions": [
+                317,
+                194
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-overly-1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/bg-overly-1-800x267.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 33619,
+            "dimensions": [
+                1920,
+                640
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon-1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 1550,
+            "dimensions": [
+                138,
+                138
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "Icon-2.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2029,
+            "dimensions": [
+                138,
+                138
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "Icon-3.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 1598,
+            "dimensions": [
+                138,
+                138
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "overly.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/06\/overly.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                }
+            ],
+            "filesize": 69321,
+            "dimensions": [
+                797,
+                743
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "left-image.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/left-image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 99402,
+            "dimensions": [
+                569,
+                753
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-worker-planning-constractor-developer-P7BDNXT\/preview"
+        },
+        {
+            "filename": "icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 926,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "icon1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/icon1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 624,
+            "dimensions": [
+                52,
+                53
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "icon2.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/icon2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 739,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "iocn-3.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/iocn-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 904,
+            "dimensions": [
+                50,
+                52
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "home-03-testimonials-bg.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/home-03-testimonials-bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 21853,
+            "dimensions": [
+                1920,
+                917
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-construction-workers-discussing-project-6HPMVMU\/preview"
+        },
+        {
+            "filename": "bg-image-home-02-banner.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/bg-image-home-02-banner.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 83520,
+            "dimensions": [
+                1920,
+                998
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-worker-M9E6H8J\/preview"
+        },
+        {
+            "filename": "home-02-banner.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/home-02-banner.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 169091,
+            "dimensions": [
+                613,
+                839
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-worker-planning-constractor-developer-P7BDNXT\/preview"
+        },
+        {
+            "filename": "text-img.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/text-img.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                },
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 1740,
+            "dimensions": [
+                225,
+                48
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Z-builder-Video-overly.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Z-builder-Video-overly.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                }
+            ],
+            "filesize": 69023,
+            "dimensions": [
+                429,
+                425
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/frame-construction-worker-7RCMX4H"
+        },
+        {
+            "filename": "Z-builder-timeline.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Z-builder-timeline.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                }
+            ],
+            "filesize": 2989,
+            "dimensions": [
+                41,
+                359
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Zbuilder-Overly-2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/Zbuilder-Overly-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 99068,
+            "dimensions": [
+                595,
+                908
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-02-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/home-02-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 35359,
+            "dimensions": [
+                540,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-engineers-discussion-with-architects-WRSLZBQ"
+        },
+        {
+            "filename": "What-we-Offer-home-02.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/02\/What-we-Offer-home-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1772,
+            "dimensions": [
+                95,
+                315
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "testimonial-bg-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/testimonial-bg-img-800x382.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 137317,
+            "dimensions": [
+                1920,
+                917
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-construction-workers-discussing-project-6HPMVMU\/preview"
+        },
+        {
+            "filename": "home-01.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/home-01-800x857.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 281563,
+            "dimensions": [
+                975,
+                1045
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-engineers-discussion-with-architects-JNDLH7R\/preview"
+        },
+        {
+            "filename": "ventor-img-1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/ventor-img-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 1419,
+            "dimensions": [
+                37,
+                368
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mechinal-icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/mechinal-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 1024,
+            "dimensions": [
+                89,
+                89
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "oil-and-gass-icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/oil-and-gass-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 2426,
+            "dimensions": [
+                98,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "design-icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/design-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 915,
+            "dimensions": [
+                90,
+                90
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "about-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/about-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 95045,
+            "dimensions": [
+                500,
+                568
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-construction-engineers-architects-working--VL4PG24"
+        },
+        {
+            "filename": "about-video-image.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/about-video-image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 62125,
+            "dimensions": [
+                555,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/frame-construction-worker-7RCMX4H"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 884,
+            "dimensions": [
+                67,
+                65
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Tabs-bg.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/Tabs-bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 199475,
+            "dimensions": [
+                1957,
+                1329
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-construction-workers-discussing-project-6HPMVMU\/preview"
+        },
+        {
+            "filename": "location-icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/location-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                }
+            ],
+            "filesize": 1568,
+            "dimensions": [
+                42,
+                58
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "phone-icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/phone-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                }
+            ],
+            "filesize": 283,
+            "dimensions": [
+                34,
+                55
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "address-icon.png",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/05\/address-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact page"
+                }
+            ],
+            "filesize": 396,
+            "dimensions": [
+                48,
+                42
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-unique-web-line-icons-pack-4CMK22K"
+        },
+        {
+            "filename": "about-img.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2021\/07\/about-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-02.json",
+                    "name": "About 02"
+                }
+            ],
+            "filesize": 223156,
+            "dimensions": [
+                569,
+                753
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/architect-and-structural-engineer-dressed-in-orang-DJYCS8N"
+        },
+        {
+            "filename": "About-imge.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/About-imge.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 30859,
+            "dimensions": [
+                285,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/architect-and-structural-engineer-dressed-in-orang-DJYCS8N"
+        },
+        {
+            "filename": "about-img2.jpg",
+            "thumbnail_url": "https:\/\/elementorpress.com\/templatekit-pro\/layout14\/wp-content\/uploads\/2024\/01\/about-img2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-01.json",
+                    "name": "About 01"
+                }
+            ],
+            "filesize": 27124,
+            "dimensions": [
+                285,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-site-C5FMYBF\/preview"
+        }
+    ]
+}
