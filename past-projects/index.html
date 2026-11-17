@@ -1,6 +1,39 @@
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
-<head><meta charset="UTF-8">
+<head><script>
+/* Capture gallery clicks before legacy WordPress/Elementor handlers. */
+(function(){
+  document.addEventListener('click',function(e){
+    const a=e.target.closest&&e.target.closest('a.lyric-gallery-link');
+    if(!a)return;
+    e.preventDefault();e.stopPropagation();e.stopImmediatePropagation();
+    const links=[...document.querySelectorAll('a.lyric-gallery-link[href]')];
+    if(!links.length)return;
+    let n=links.indexOf(a);
+    let overlay=document.getElementById('lyric-custom-lightbox');
+    if(!overlay){
+      overlay=document.createElement('div');overlay.id='lyric-custom-lightbox';
+      overlay.setAttribute('role','dialog');overlay.setAttribute('aria-modal','true');
+      overlay.innerHTML='<button class="lyric-x" aria-label="Close image">×</button><button class="lyric-left" aria-label="Previous image">❮</button><img alt="Project photo"><button class="lyric-right" aria-label="Next image">❯</button><div class="lyric-count"></div>';
+      const css=document.createElement('style');
+      css.textContent='#lyric-custom-lightbox{position:fixed!important;inset:0!important;z-index:2147483647!important;background:rgba(0,0,0,.94)!important;display:flex!important;align-items:center!important;justify-content:center!important;padding:64px!important;box-sizing:border-box!important}#lyric-custom-lightbox[hidden]{display:none!important}#lyric-custom-lightbox img{display:block!important;max-width:100%!important;max-height:calc(100vh - 120px)!important;width:auto!important;height:auto!important;object-fit:contain!important}#lyric-custom-lightbox button{position:absolute!important;z-index:2!important;display:grid!important;place-items:center!important;background:rgba(255,255,255,.18)!important;color:white!important;border:0!important;border-radius:50%!important;width:48px!important;height:48px!important;font:30px Arial!important;cursor:pointer!important}#lyric-custom-lightbox .lyric-x{right:16px!important;top:16px!important}#lyric-custom-lightbox .lyric-left{left:12px!important;top:50%!important;transform:translateY(-50%)!important}#lyric-custom-lightbox .lyric-right{right:12px!important;top:50%!important;transform:translateY(-50%)!important}#lyric-custom-lightbox .lyric-count{position:absolute;bottom:15px;color:white;font:14px Arial}';
+      document.head.appendChild(css);document.body.appendChild(overlay);
+    }
+    const image=overlay.querySelector('img'),count=overlay.querySelector('.lyric-count');
+    const show=(i)=>{n=(i+links.length)%links.length;image.src=links[n].href;image.alt=links[n].querySelector('img')?.alt||'Project photo';count.textContent=(n+1)+' / '+links.length};
+    const close=()=>{overlay.hidden=true;document.body.style.overflow=overlay.dataset.previousOverflow||'';image.removeAttribute('src')};
+    overlay.querySelector('.lyric-x').onclick=close;
+    overlay.querySelector('.lyric-left').onclick=()=>show(n-1);
+    overlay.querySelector('.lyric-right').onclick=()=>show(n+1);
+    overlay.onclick=(ev)=>{if(ev.target===overlay)close()};
+    if(overlay._lyricKeyHandler)document.removeEventListener('keydown',overlay._lyricKeyHandler);
+    overlay._lyricKeyHandler=(ev)=>{if(overlay.hidden)return;if(ev.key==='Escape')close();if(ev.key==='ArrowLeft')show(n-1);if(ev.key==='ArrowRight')show(n+1)};
+    document.addEventListener('keydown',overlay._lyricKeyHandler);
+    overlay.dataset.previousOverflow=document.body.style.overflow;
+    document.body.style.overflow='hidden';overlay.hidden=false;show(n);
+  },true);
+})();
+</script><meta charset="UTF-8">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		    <style>
